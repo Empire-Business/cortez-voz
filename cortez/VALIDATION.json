@@ -1,0 +1,23 @@
+{
+  "date": "2026-10-22",
+  "scope": "installation-and-web-build",
+  "macos_arm64": {
+    "dependencies_installed": true,
+    "web_build": "passed",
+    "python": "3.12.14",
+    "uv": "0.13.5",
+    "bun": "1.4.2"
+  },
+  "windows_x64": "not_executed",
+  "linux_x64": "not_executed",
+  "backend_started": false,
+  "database_or_migrations_executed": false,
+  "models_downloaded": false,
+  "real_speech_generation": "not_executed",
+  "security_review": "independent static delta review; update overlay and dynamic plugin discovery disabled; no remaining concrete blocker in reviewed delta",
+  "limitations": [
+    "Dependency hash pins are integrity checks, not a malware certificate.",
+    "Model revision and licensing review required before use.",
+    "Upstream full suite not executed because its fixtures/startup can initialize databases."
+  ]
+}

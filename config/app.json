@@ -1,0 +1,9 @@
+{
+  "productName": "Cortez Voz",
+  "appId": "com.empirebusiness.cortez.voz",
+  "ports": {
+    "backend": 3930,
+    "web": 3931,
+    "electronDev": 3932
+  }
+}

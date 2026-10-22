@@ -1,0 +1,9 @@
+{
+  "repository": "https://github.com/debpalash/VoiceStudio",
+  "commit": "6c46e2a890bcca0c5f14694ac197857174945d09",
+  "license": "AGPL-3.0-only",
+  "modified_by": "Empire-Business",
+  "edition": "0.1.0",
+  "distribution": "web-local",
+  "notes": "Independent source snapshot. Upstream copyright, license and model notices retained. No automatic merges or application updates."
+}
